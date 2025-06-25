@@ -14,8 +14,6 @@ I'm a **web development learner**, a **daily LeetCode problem solver**, and a pa
 ---
 
 ## 📈 GitHub Stats & LeetCode Streak
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=supreme-learner&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supreme-learner&layout=compact&theme=dark)
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Suman_Mahapatra99)
 
